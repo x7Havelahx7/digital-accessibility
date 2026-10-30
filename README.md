@@ -1,1 +1,1 @@
-# getting-started-with-digital-accessibility
+# digital-accessibility
