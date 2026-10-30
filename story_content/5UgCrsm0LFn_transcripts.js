@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1129,"text":"In this course you'll learn about the POUR principles."},{"start":4369,"text":"You'll use real world scenarios to explore how accessibility applies to your work."},{"start":9130,"text":"By the end of this course,"},{"start":10649,"text":"you will be able to"},{"start":12409,"text":"define digital accessibility,"},{"start":14890,"text":"identify types of digital content that need to be accessible,"},{"start":18680,"text":"recognize common accessibility barriers,"},{"start":21219,"text":"and ways to reduce them."},{"start":23350,"text":"An ungraded assessment at the end of the"},{"start":25230,"text":"course will help you review what you've learned."}]}]};
+    window.globalLoadJsAsset('story_content/5UgCrsm0LFn_transcripts.js', JSON.stringify(data));
+})();

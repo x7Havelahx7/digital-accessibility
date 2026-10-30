@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1000,"text":"POUR stands for 4 principles in the Web Content Accessibility Guidelines or WCAG."},{"start":7239,"text":"WCAG is an international standard for web accessibility."},{"start":11199,"text":"These guidelines are developed by experts from around the world."},{"start":15359,"text":"POUR is a way to remember these four principles."},{"start":18360,"text":"P stands for perceivable."},{"start":20399,"text":"Can learners access the information you share?"},{"start":22920,"text":"O stands for operable."},{"start":24760,"text":"Can learners navigate and interact with your content?"},{"start":28000,"text":"U stands for understandable."},{"start":30040,"text":"Can learners understand the information and know what to do?"},{"start":33400,"text":"And R stands for robust."},{"start":35619,"text":"Will your content work with different technologies?"},{"start":38799,"text":"Select each button to learn more."}]}]};
+    window.globalLoadJsAsset('story_content/5rWzyhvcMpI_transcripts.js', JSON.stringify(data));
+})();

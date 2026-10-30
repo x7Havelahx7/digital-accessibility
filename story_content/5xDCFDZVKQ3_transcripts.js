@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1360,"text":"Digital accessibility means designing and creating digital"},{"start":4921,"text":"content so learners with different abilities,"},{"start":6990,"text":"needs, and circumstances can access,"},{"start":9287,"text":"understand, navigate,"},{"start":10840,"text":"and interact with it."},{"start":12399,"text":"Accessibility isn't just about websites or"},{"start":14841,"text":"supporting people with permanent disabilities."},{"start":17319,"text":"It applies to everyday digital content,"},{"start":20000,"text":"including emails,"},{"start":21000,"text":"presentations,"},{"start":21909,"text":"documents,"},{"start":22670,"text":"videos,"},{"start":23440,"text":"and online training."}]}]};
+    window.globalLoadJsAsset('story_content/5xDCFDZVKQ3_transcripts.js', JSON.stringify(data));
+})();
